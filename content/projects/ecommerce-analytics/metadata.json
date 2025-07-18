@@ -1,0 +1,12 @@
+{
+  "id": "ecommerce-analytics",
+  "title": "电商数据可视化平台",
+  "description": "交互式电商销售数据分析仪表板",
+  "longDescription": "基于 Vue 和 D3.js 的数据可视化平台，帮助电商企业分析销售趋势和客户行为。该平台提供实时数据监控、趋势预测和自定义报表导出功能。",
+  "technologies": ["Vue", "D3.js", "Firebase", "Element UI", "数据可视化"],
+  "featured": true,
+  "coverImage": "cover.png",
+  "demoUrl": "https://example.com/demo",
+  "githubUrl": "https://github.com/yourusername/ecommerce-analytics",
+  "date": "2023-10-15"
+} 

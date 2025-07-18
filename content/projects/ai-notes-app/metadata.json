@@ -1,0 +1,12 @@
+{
+  "id": "ai-notes-app",
+  "title": "AI驱动的智能笔记应用",
+  "description": "一个结合AI能力的个人知识管理工具",
+  "longDescription": "使用 React、Node.js 和 OpenAI API 构建的笔记应用，能自动组织和连接你的知识点。该应用提供智能标签推荐、相关内容建议和自动摘要生成等功能。",
+  "technologies": ["React", "Node.js", "OpenAI", "Express", "MongoDB"],
+  "featured": true,
+  "coverImage": "cover.png",
+  "demoUrl": "https://example.com/demo",
+  "githubUrl": "https://github.com/yourusername/ai-notes-app",
+  "date": "2023-12-01"
+} 
